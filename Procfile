@@ -1,0 +1,1 @@
+worker: python mycontactbottest2.py
